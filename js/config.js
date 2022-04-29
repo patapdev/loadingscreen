@@ -13,7 +13,7 @@ var l_serverImage = "images/logo.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Sleepy RP";
+var l_serverName = "Token Networks";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -89,6 +89,7 @@ var l_musicPlaylist = [
 	{youtube: "RXLzvo6kvVQ", name: "LAKEY INSPIRED - Better Days"},
 	{youtube: "HnIdtbV_TDU", name: "Future - Mask off (Lo-fi Remix)"},
 	{youtube: "atU0X8C7fPg", name: "The Kid LAROI - Diva ft. Lil Tecca (Official Lofi Remix)"},
+	{youtube: "621SEHkfIM", name: "DVRST - Close Eyes"},
 ];
 
 /*Random music order?*/
